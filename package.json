@@ -1,0 +1,28 @@
+{
+  "name": "test-automation",
+  "version": "1.0.0",
+  "description": "Cypress Automated Tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./scripts/app",
+    "open": "node ./scripts/open"
+  },
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.3",
+    "@cypress/code-coverage": "^3.9.12",
+    "@cypress/grep": "^3.1.4",
+    "cy-verify-downloads": "^0.1.13",
+    "cypress": "^12.5.1",
+    "cypress-dark": "^1.1.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-iframe": "^1.0.1",
+    "cypress-mochawesome-reporter": "^3.0.0",
+    "cypress-multi-reporters": "^1.6.0",
+    "cypress-xpath": "^2.0.1",
+    "generate-password": "^1.7.0",
+    "junit-report-merger": "^3.0.5",
+    "mocha": "^10.0.0",
+    "mocha-junit-reporter": "^2.0.2"
+  }
+}
