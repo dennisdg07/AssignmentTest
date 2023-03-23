@@ -15,7 +15,7 @@ https://nodejs.org/es/download/
 Install project dependencies with: npm i 
 
 
-## 🚀 To run specific tags and browser
+## 🚀 To run in specific browser
 Example: Using NPM commands
 1. Default Electron browser:  npx cypress run
 2. Chrome browser: npx cypress run --browser chrome
