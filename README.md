@@ -4,7 +4,7 @@ Before you use this project you only need to have Node Js installed in your comp
 https://nodejs.org/es/download/
 
 
-## 💻 Test Automation Framerok Components
+## 💻 Test Automation Framework Components
 1. Cypress - To manipulate the web page
 2. Pages - Contains objects and actions that can be done in a web page
 3. Fixtures - To store test data
