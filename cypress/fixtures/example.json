@@ -1,0 +1,20 @@
+{
+    "exampleUser":
+    {
+        "firstName": "Alden",
+        "lastName": "Cantrell"
+    },
+
+    "regularUser":
+    {
+        "username": "",
+        "password": ""
+    },
+
+    "invalidUser":
+    {
+        "username": "",
+        "password": "",
+        "errorMessage": "Login failed. Please check your info and try again."
+    }
+}
